@@ -13,7 +13,7 @@
 # the License.
 #
 
-# ENTRYPOINT script that starts ZooKeeper and then Kafka
+# ENTRYPOINT script that starts Cassandra
 #
 # This intentionally locates config using the current working directory, in order to consolidate
 # Dockerfile instructions to WORKDIR
